@@ -1,6 +1,6 @@
-# KNUcalendar
+# desktop-calendar
 
-KNUcalendar is a lightweight calendar that display events from a CSV file `202408.csv` on a webpage. 
+desktop-calendar is a wallpaperEngine-dedicated calendar
 
 ## oneko.js
 
